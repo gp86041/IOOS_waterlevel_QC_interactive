@@ -1,5 +1,5 @@
 # IOOS_waterlevel_QC_interactive
-interactive water level QC script using IOOS published methods
+interactive water level QC script using [IOOS published methods](https://ioos.noaa.gov/project/qartod/)
 
 Goal of this python notebook script is to make the IOOS QC more interactive.
 Orginal scipts can be found at https://ioos.github.io/ioos_qc/. 
